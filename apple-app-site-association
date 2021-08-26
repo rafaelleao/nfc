@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": CJ9YSBG244.com.sap.fsm.nfc",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
